@@ -1,0 +1,34 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+ img[src=""]{
+    display:none;
+}
+.registered-users{
+    text-align: center;
+    max-width: fit-content;
+}
+.registered-users input {
+    text-align: center;
+}
+
+.registered-users table {
+    border: 2px solid;
+}
+.registered-users table th,
+.registered-users table td {
+    padding: 4px 1rem;
+}
+.registered-users th,
+td {
+    border: 2px solid;
+    border-top: unset;
+}
+.invalid-feedback{
+    font-size:small;
+    color: red;
+}
+myplugin{
+    min-width: 100vh;
+}
