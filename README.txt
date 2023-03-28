@@ -8,14 +8,11 @@ Stable tag: 4.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Here is a short description of the plugin.  This should be no more than 150 characters.  No markup here.
+This plugin creates Login, Profile and Register page automatically on activation.
 
 == Description ==
 
-This is the long description.  No limit, and you can use Markdown (as well as in the following sections).
-
-For backwards compatibility, if this section is missing, the full length of the short description will be used, and
-Markdown parsed.
+This custom WordPress plugin provides essential user functionality such as user login, registration, and profile update features. Users can easily create and manage their accounts through this plugin, which is fully customizable to match the website's branding and design. The plugin includes secure authentication mechanisms and allows administrators to manage user accounts and access. Overall, this plugin streamlines the user experience and enhances website security.
 
 A few notes about the sections above:
 
