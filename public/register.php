@@ -48,7 +48,7 @@ if (!defined('ABSPATH')) {
         <div class="form-group">
             <label for="dob">Date of Birth</label>
             <input class="form-control" type="date" name="dob" id="register-dob" required>
-            <div class="invalid-feedback" id="emailError"></div>
+            <div class="invalid-feedback" id="dobError"></div>
         </div>
         <img src="" alt="" width="100" height="100" id="profile-pic" style="object-fit:cover;"> <br>
         <div class="form-group">
